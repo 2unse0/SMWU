@@ -15,3 +15,6 @@
 | Business Data Analysis 1 | Traditional structured Data Analysis with R | **A0** |
 | Business Data Analysis 2 | Development of a business model using machine learning | In the course of study |
 | IT and Business Innovation | Data Analysis using Python| **A0**  |
+
+- First semester of fourth grade (4-1)
+- | Python Programming Basics | **P**  |
