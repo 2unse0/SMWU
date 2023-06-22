@@ -17,4 +17,7 @@
 | IT and Business Innovation | Data Analysis using Python| **A0**  |
 
 - First semester of fourth grade (4-1)
-- | Python Programming Basics | **P**  |
+
+| Class | Description | Grade |
+| ------ | ------ | ------ |
+| Python Programming Basics | **P**  |
