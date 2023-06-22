@@ -20,4 +20,4 @@
 
 | Class | Description | Grade |
 | ------ | ------ | ------ |
-| Python Programming Basics | **P**  |
+| Python Programming Basics | Basic of Python| **P**  |
