@@ -13,4 +13,5 @@
 | ------ | ------ | ------ |
 | Introduction to Data Analysis with R | Basic of R | **A+** |
 | Business Data Analysis 1 | Traditional structured Data Analysis with R | **A0** |
+| Business Data Analysis 2 | Development of a business model using machine learning | In the course of study |
 | IT and Business Innovation | Data Analysis using Python| **A0**  |
