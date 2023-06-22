@@ -12,5 +12,5 @@
 | Class | Description | Grade |
 | ------ | ------ | ------ |
 | Introduction to Data Analysis with R | Basic of R | **A+** |
-| Business Data Analysis 1 | Traditional structured Data Analysis with R | **A+** |
-| IT and Business Innovation | Data Analysis using Python| **A+**  |
+| Business Data Analysis 1 | Traditional structured Data Analysis with R | **A0** |
+| IT and Business Innovation | Data Analysis using Python| **A0**  |
