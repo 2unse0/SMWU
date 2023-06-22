@@ -21,3 +21,4 @@
 | Class | Description | Grade |
 | ------ | ------ | ------ |
 | Python Programming Basics | Basic of Python| **P**  |
+| Business Network Analysis | Business Network Analysis Using Unicet program| **A+** |
